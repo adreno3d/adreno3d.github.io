@@ -1,0 +1,34 @@
+<ProductsBody xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Sofas>
+<Sofa>
+<Name>Sofa1</Name>
+<Description>This sofa is Color red</Description>
+<PhotoFilename>https://adreno3d.github.io/images/sofa1.jpeg</PhotoFilename>
+</Sofa>
+<Sofa>
+<Name>Sofa2</Name>
+<Description>This sofa is Color red</Description>
+<PhotoFilename>https://adreno3d.github.io/images/sofa2.jpg</PhotoFilename>
+</Sofa>
+<Sofa>
+<Name>Sofa3</Name>
+<Description>This sofa is Color red</Description>
+<PhotoFilename>https://adreno3d.github.io/images/sofa3.jpg</PhotoFilename>
+</Sofa>
+<Sofa>
+<Name>Sofa4</Name>
+<Description>This sofa is Color red</Description>
+<PhotoFilename>https://adreno3d.github.io/images/sofa4.jpg</PhotoFilename>
+</Sofa>
+<Sofa>
+<Name>Sofa5</Name>
+<Description>This sofa is Color red</Description>
+<PhotoFilename>https://adreno3d.github.io/images/sofa5.jpg</PhotoFilename>
+</Sofa>
+<Sofa>
+<Name>Sofa6</Name>
+<Description>This sofa is Color red</Description>
+<PhotoFilename>https://adreno3d.github.io/images/sofa6.jpg</PhotoFilename>
+</Sofa>
+</Sofas>
+</ProductsBody>
