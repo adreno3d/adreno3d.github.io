@@ -1,34 +1,88 @@
 <ProductsBody xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <Sofas>
 <Sofa>
-<Name>Sofa1</Name>
-<Description>This sofa is Color red</Description>
-<PhotoFilename>https://adreno3d.github.io/images/Sofas/sofa1.jpeg</PhotoFilename>
+<SofaName>Sofa1</SofaName>
+<SofaDescription>This sofa is Color red</SofaDescription>
+<SofaPhotoFilename>https://adreno3d.github.io/images/Sofas/sofa1.jpeg</SofaPhotoFilename>
 </Sofa>
 <Sofa>
-<Name>Sofa2</Name>
-<Description>This sofa is Color red</Description>
-<PhotoFilename>https://adreno3d.github.io/images/Sofas/sofa2.jpg</PhotoFilename>
+<SofaName>Sofa2</SofaName>
+<SofaDescription>This sofa is Color red</SofaDescription>
+<SofaPhotoFilename>https://adreno3d.github.io/images/Sofas/sofa2.jpg</SofaPhotoFilename>
 </Sofa>
 <Sofa>
-<Name>Sofa3</Name>
-<Description>This sofa is Color red</Description>
-<PhotoFilename>https://adreno3d.github.io/images/Sofas/sofa3.jpg</PhotoFilename>
+<SofaName>Sofa3</SofaName>
+<SofaDescription>This sofa is Color red</SofaDescription>
+<SofaPhotoFilename>https://adreno3d.github.io/images/Sofas/sofa3.jpg</SofaPhotoFilename>
 </Sofa>
 <Sofa>
-<Name>Sofa4</Name>
-<Description>This sofa is Color red</Description>
-<PhotoFilename>https://adreno3d.github.io/images/Sofas/sofa4.jpg</PhotoFilename>
+<SofaName>Sofa4</SofaName>
+<SofaDescription>This sofa is Color red</SofaDescription>
+<SofaPhotoFilename>https://adreno3d.github.io/images/Sofas/sofa4.jpg</SofaPhotoFilename>
 </Sofa>
 <Sofa>
-<Name>Sofa5</Name>
-<Description>This sofa is Color red</Description>
-<PhotoFilename>https://adreno3d.github.io/images/Sofas/sofa5.jpg</PhotoFilename>
+<SofaName>Sofa5</SofaName>
+<SofaDescription>This sofa is Color red</SofaDescription>
+<SofaPhotoFilename>https://adreno3d.github.io/images/Sofas/sofa5.jpg</SofaPhotoFilename>
 </Sofa>
 <Sofa>
-<Name>Sofa6</Name>
-<Description>This sofa is Color red</Description>
-<PhotoFilename>https://adreno3d.github.io/images/Sofas/sofa6.jpg</PhotoFilename>
+<SofaName>Sofa6</SofaName>
+<SofaDescription>This sofa is Color red</SofaDescription>
+<SofaPhotoFilename>https://adreno3d.github.io/images/Sofas/sofa6.jpg</SofaPhotoFilename>
 </Sofa>
 </Sofas>
+<Chairs>
+<Chair>
+<ChairName>Chair1</ChairName>
+<ChairDescription>This Chair is Color red</ChairDescription>
+<ChairPhotoFilename>https://adreno3d.github.io/images/Chairs/chair1.jpg</ChairPhotoFilename>
+</Chair>
+<Chair>
+<ChairName>Chair2</ChairName>
+<ChairDescription>This Chair is Color red</ChairDescription>
+<ChairPhotoFilename>https://adreno3d.github.io/images/Chairs/chair2.jpg</ChairPhotoFilename>
+</Chair>
+<Chair>
+<ChairName>Chair3</ChairName>
+<ChairDescription>This Chair is Color red</ChairDescription>
+<ChairPhotoFilename>https://adreno3d.github.io/images/Chairs/chair3.jpg</ChairPhotoFilename>
+</Chair>
+<Chair>
+<ChairName>Chair4</ChairName>
+<ChairDescription>This Chair is Color red</ChairDescription>
+<ChairPhotoFilename>https://adreno3d.github.io/images/Chairs/chair4.jpg</ChairPhotoFilename>
+</Chair>
+<Chair>
+<ChairName>Chair5</ChairName>
+<ChairDescription>This Chair is Color red</ChairDescription>
+<ChairPhotoFilename>https://adreno3d.github.io/images/Chairs/chair5.jpg</ChairPhotoFilename>
+</Chair>
+</Chairs>
+<Tables>
+<Table>
+<TableName>Table1</TableName>
+<TableDescription>This is a Table</TableDescription>
+<TablePhotoFilename>https://adreno3d.github.io/images/Tables/table1.jpg</TablePhotoFilename>
+</Table>
+<Table>
+<TableName>Table1</TableName>
+<TableDescription>This is a Table</TableDescription>
+<TablePhotoFilename>https://adreno3d.github.io/images/Tables/table2.jpg</TablePhotoFilename>
+</Table>
+<Table>
+<TableName>Table1</TableName>
+<TableDescription>This is a Table</TableDescription>
+<TablePhotoFilename>https://adreno3d.github.io/images/Tables/table3.jpg</TablePhotoFilename>
+</Table>
+<Table>
+<TableName>Table1</TableName>
+<TableDescription>This is a Table</TableDescription>
+<TablePhotoFilename>https://adreno3d.github.io/images/Tables/table4.jpg</TablePhotoFilename>
+</Table>
+<Table>
+<TableName>Table1</TableName>
+<TableDescription>This is a Table</TableDescription>
+<TablePhotoFilename>https://adreno3d.github.io/images/Tables/table5.jpg</TablePhotoFilename>
+</Table>
+</Tables>
 </ProductsBody>
